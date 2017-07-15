@@ -1,0 +1,6 @@
+C:\Users\DPopov\Documents\DSA-June-2017\DSA-2017\MiniContest-1\MiniContest1\mesuring\bin\Debug\mesuring.exe.config
+C:\Users\DPopov\Documents\DSA-June-2017\DSA-2017\MiniContest-1\MiniContest1\mesuring\bin\Debug\mesuring.exe
+C:\Users\DPopov\Documents\DSA-June-2017\DSA-2017\MiniContest-1\MiniContest1\mesuring\bin\Debug\mesuring.pdb
+C:\Users\DPopov\Documents\DSA-June-2017\DSA-2017\MiniContest-1\MiniContest1\mesuring\obj\Debug\mesuring.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\DSA-June-2017\DSA-2017\MiniContest-1\MiniContest1\mesuring\obj\Debug\mesuring.exe
+C:\Users\DPopov\Documents\DSA-June-2017\DSA-2017\MiniContest-1\MiniContest1\mesuring\obj\Debug\mesuring.pdb
